@@ -19,7 +19,7 @@ function Header() {
       <Nav.Link><Link to="/contact">Contact</Link></Nav.Link>
       <NavDropdown title="Portfolio" id="basic-nav-dropdown">
       <NavDropdown.Item href="https://github.com/paxton44">Github Repo</NavDropdown.Item>
-      <NavDropdown.Item href="#action/3.2"><Link to="/portfolio">Portfolio</Link></NavDropdown.Item>
+      <NavDropdown.Item ><Link to="/portfolio">Portfolio</Link></NavDropdown.Item>
       <NavDropdown.Item href="/images/MPF Resume 2021.docx.pdf">Resume</NavDropdown.Item>
       <NavDropdown.Divider />
       <NavDropdown.Item href="https://shrouded-reaches-33204.herokuapp.com/">Most Recent App Build</NavDropdown.Item>

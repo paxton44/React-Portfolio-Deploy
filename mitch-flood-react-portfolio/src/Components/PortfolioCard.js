@@ -54,7 +54,7 @@ const PortfolioCard = (props) => {
                 <Row>
                   <Col>
                         <Card  style={{ width: 'fluid' }}>
-                            <Card.Img variant="top" src='/images/BeerNuts.gif' />
+                            <Card.Img variant="top" src='https://firebasestorage.googleapis.com/v0/b/portfoliopix-7a60a.appspot.com/o/BeerNuts.gif?alt=media&token=53fdf7a4-9d43-470b-84ae-6b8dd2f7d15b' />
                                 <Card.Body>
                                     <Card.Title>Beer Nuts</Card.Title>
                                         <Card.Text>
@@ -66,7 +66,7 @@ const PortfolioCard = (props) => {
                             </Card>
 
                             <Card  style={{ width: 'fluid' }}>
-                            <Card.Img variant="top" src='/images/BoozyPlaylists.png' />
+                            <Card.Img variant="top" src='https://firebasestorage.googleapis.com/v0/b/portfoliopix-7a60a.appspot.com/o/BoozyPlaylists.png?alt=media&token=8bb47e1f-2d44-4e75-910c-6e3d9299d34a' />
                                 <Card.Body>
                                     <Card.Title>Boozy Playlists</Card.Title>
                                         <Card.Text>
@@ -78,7 +78,7 @@ const PortfolioCard = (props) => {
                             </Card>  
 
                             <Card  style={{ width: 'fluid' }}>
-                            <Card.Img variant="top" src='/images/ReadMeGenerator.png' />
+                            <Card.Img variant="top" src='https://firebasestorage.googleapis.com/v0/b/portfoliopix-7a60a.appspot.com/o/ReadMeGenerator.png?alt=media&token=2003a6e0-95e5-4f7a-be74-c469099ce2ff' />
                                 <Card.Body>
                                     <Card.Title>Read Me Generator</Card.Title>
                                         <Card.Text>
@@ -93,9 +93,9 @@ const PortfolioCard = (props) => {
                             
 
                             <Card  style={{ width: 'fluid' }}>
-                            <Card.Img variant="top" src='/images/PasswordGenerator.png' />
+                            <Card.Img variant="top" src='https://firebasestorage.googleapis.com/v0/b/portfoliopix-7a60a.appspot.com/o/PasswordGenerator.png?alt=media&token=d52e4b78-fe14-4cbd-b93b-9c5fb602ef72' />
                                 <Card.Body>
-                                    <Card.Title>Beer Nuts</Card.Title>
+                                    <Card.Title>Password Generator</Card.Title>
                                         <Card.Text>
                                         This homework assignment required the use of arrays, functions, conditional statements, and the application of a for loop. I first started by constructing arrays for uppercase, lowercase, numerical, and special characters. Then I grouped all four arrays into an empty array named allCharacters. I then modified the writePassword function. This function runs on the parameters of password length being between 8-128 characters. It has conditional statements that prompt and require the user to have at least 8 characters in their password, whether or not they want uppercase, lowercase, special, or numerical characters. It then generates the random password using the for loop to use characters from each array based on the user prompts."  
                                         </Card.Text>

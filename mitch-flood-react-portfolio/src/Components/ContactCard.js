@@ -10,7 +10,7 @@ const ContactInfoCard = () => {
   width: 'fluid'
 
 }}>
-  <Card.Img variant="top" src="/images/DenverHome2.jpg" />
+  <Card.Img variant="top" src="https://firebasestorage.googleapis.com/v0/b/portfoliopix-7a60a.appspot.com/o/DenverHome2.jpg?alt=media&token=94887182-edd1-4ad4-8c7b-e23e8c999f35" />
   <Card.Body>
     <Card.Title>Contact Information</Card.Title>
     <Card.Text>
