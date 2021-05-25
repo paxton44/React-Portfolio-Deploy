@@ -1,13 +1,16 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import ListGroup from 'react-bootstrap/ListGroup';
-
+import Container from 'react-bootstrap/Container'
 
 const ContactInfoCard = () => {
   return (
- 
-<Card className="text-center" style={{ width: '65rem' }}>
-  <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
+ <Container fluid>
+<Card className="text-center" style={{ 
+  width: 'fluid'
+
+}}>
+  <Card.Img variant="top" src="/images/DenverHome2.jpg" />
   <Card.Body>
     <Card.Title>Contact Information</Card.Title>
     <Card.Text>
@@ -17,7 +20,7 @@ const ContactInfoCard = () => {
   <ListGroup className="list-group-flush">
     <ListGroup>
     <div class="social-information"> <i class="fa fa-map-marker"></i>
-    <p>Denver,CO,USA</p>
+    <p>Denver, CO USA</p>
     </div>
 
     </ListGroup>
@@ -47,6 +50,7 @@ const ContactInfoCard = () => {
     <Card.Link href="https://github.com/paxton44">Github Repo</Card.Link>
   </Card.Body>
 </Card>
+</Container>
   );
 };
 

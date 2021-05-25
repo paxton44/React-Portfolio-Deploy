@@ -1,5 +1,7 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
+import Container from 'react-bootstrap/Container'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
 import Header from "../Components/Header";
 import Footer from "../Components/Footer"
 import PortfolioCard from '../Components/PortfolioCard'
@@ -7,15 +9,21 @@ import PortfolioCard from '../Components/PortfolioCard'
 
 
 
-function PortfolioPageCard() {
+function PortfolioPageLayout() {
     return (
       <Container >
         <Header />
-        <PortfolioCard />
+        
+        
+            <PortfolioCard />
+            
+
+        
+        
         
       <Footer />
       </Container>
     );
   }
   
-  export default PortfolioPageCard;
+  export default PortfolioPageLayout;

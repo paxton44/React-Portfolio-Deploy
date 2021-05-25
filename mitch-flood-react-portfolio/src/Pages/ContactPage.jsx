@@ -9,11 +9,11 @@ import Footer from '../Components/Footer';
 function ContactPage() {
     return (
       <Container >
-        <Container>
+        
         <Header />
         <ContactCard />
-        </Container>
         <Footer />
+        
       </Container>
     );
   }
