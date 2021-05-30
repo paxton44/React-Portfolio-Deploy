@@ -27,8 +27,8 @@ let portfolioArrayData = [
     projectTitle: "Boozy Playlists",
     projectImage: "/images/BoozyPlaylists.png",
     projectDescription: " This project gives a user the opportunity to combine a delicious cocktail with a fun music playlist! The user will have the option to select a cocktail from a dropdown, which will then give them the ingredients need and the directs on how to make the drink, while also loading a playlist for them to listen to.",
-    githubRepoLink: "https://github.com/wylie-u/BeerNuts",
-    liveApplicationLink: "https://shrouded-reaches-33204.herokuapp.com/",
+    githubRepoLink: "https://github.com/paxton44/teamAwesome",
+    liveApplicationLink: "https://paxton44.github.io/teamAwesome/",
   },
 
   {
