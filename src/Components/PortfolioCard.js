@@ -72,8 +72,8 @@ const PortfolioCard = (props) => {
                                         <Card.Text>
                                         This project gives a user the opportunity to discover a new brewery of their liking, with the opportunity to add a place to their favorites or to a wishlist, all of which is tracked through a profile page the user sets up.  
                                         </Card.Text>
-                                                <Button href='https://github.com/wylie-u/BeerNuts' variant="outline-primary">View GitHub Repo</Button>
-                                                <Button href='https://shrouded-reaches-33204.herokuapp.com/' variant="outline-danger">View Live Application</Button>
+                                                <Button href= "https://github.com/paxton44/teamAwesome" variant="outline-primary">View GitHub Repo</Button>
+                                                <Button href='https://paxton44.github.io/teamAwesome/' variant="outline-danger">View Live Application</Button>
                                     </Card.Body>
                             </Card>  
 
