@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-mitch-flood/static/css/main.d29efd37.chunk.css",
+    "main.js": "/react-portfolio-mitch-flood/static/js/main.932abbfd.chunk.js",
+    "main.js.map": "/react-portfolio-mitch-flood/static/js/main.932abbfd.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-mitch-flood/static/js/runtime-main.14587023.js",
+    "runtime-main.js.map": "/react-portfolio-mitch-flood/static/js/runtime-main.14587023.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio-mitch-flood/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.424a730f.chunk.js": "/react-portfolio-mitch-flood/static/js/2.424a730f.chunk.js",
+    "static/js/2.424a730f.chunk.js.map": "/react-portfolio-mitch-flood/static/js/2.424a730f.chunk.js.map",
+    "static/js/3.b19fdad7.chunk.js": "/react-portfolio-mitch-flood/static/js/3.b19fdad7.chunk.js",
+    "static/js/3.b19fdad7.chunk.js.map": "/react-portfolio-mitch-flood/static/js/3.b19fdad7.chunk.js.map",
+    "index.html": "/react-portfolio-mitch-flood/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio-mitch-flood/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d29efd37.chunk.css.map": "/react-portfolio-mitch-flood/static/css/main.d29efd37.chunk.css.map",
+    "static/js/2.424a730f.chunk.js.LICENSE.txt": "/react-portfolio-mitch-flood/static/js/2.424a730f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14587023.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.424a730f.chunk.js",
+    "static/css/main.d29efd37.chunk.css",
+    "static/js/main.932abbfd.chunk.js"
+  ]
+}
